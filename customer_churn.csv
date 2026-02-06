@@ -1,0 +1,6 @@
+customerID,gender,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,Contract,PaymentMethod,Churn
+7590-VHVEG,Female,0,1,29.85,29.85,Month-to-month,Electronic check,No
+5575-GNVDE,Male,0,34,56.95,1889.5,One year,Mailed check,No
+3668-QPYBK,Male,0,2,53.85,108.15,Month-to-month,Electronic check,Yes
+7795-CFOCW,Female,0,45,42.30,1840.75,Two year,Bank transfer (automatic),No
+9237-HQITU,Male,1,2,70.70,151.65,Month-to-month,Credit card (automatic),Yes
